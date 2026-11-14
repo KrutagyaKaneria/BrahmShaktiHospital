@@ -18,4 +18,4 @@ Use the production deployment guide here:
 
 - See [DEPLOYMENT.md](DEPLOYMENT.md)
 
-Recommended path: single-service deployment on Render using the included `render.yaml`.# BrahmShaktiHospital
+Recommended path: single-service deployment on Render using the included `render.yaml`.
